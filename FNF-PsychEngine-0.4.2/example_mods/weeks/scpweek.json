@@ -1,0 +1,34 @@
+{
+	"storyName": "Skips",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week5",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"vivisection",
+			"vivisection",
+			[
+				10,
+				10,
+				10
+			]
+		],
+		[
+			"scopophobia",
+			"shy",
+			[
+				235,
+				235,
+				235
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "scpweek"
+}
